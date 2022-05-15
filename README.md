@@ -1,4 +1,2 @@
-# odin-recipes
-A simple website showing different Filipino recipes!
+# emma-dishes
 
-This project demonstrates the basic foundations of HTML and CSS.
