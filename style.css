@@ -8,10 +8,6 @@ h1 {
     font-weight: bold;
 }
 
-a, u {
-    text-decoration: none;
-}
-
 img {
     height: auto;
     width: 400px;
